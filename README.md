@@ -88,7 +88,7 @@ Built a containerised cybersecurity practice environment to simulate offensive s
 
 [View Project Repository](https://github.com/rosinss/attack-defense-ctf-homelab)
 
-### Web Application Penetration Testing — DVWA
+### [DVWA Web Application Penetration Testing](https://github.com/rosinss/dvwa-web-penetration-testing)
 
 **Academic Project | ITT557 Web Application Security**
 
