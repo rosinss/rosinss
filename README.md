@@ -293,6 +293,15 @@ Designed a multi-site enterprise network supporting reliable communication and m
 ![ESP32](https://img.shields.io/badge/ESP32-6345A8?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-6345A8?style=flat-square&logo=arduino&logoColor=white)
 
+### [Enterprise Network Design](https://github.com/rosinss/enterprise-network-design)
+
+Academic enterprise network design projects featuring hierarchical architecture, VLAN segmentation, IPv4 addressing, Quality of Service (QoS), network security and high availability.
+
+- EduStream Global Network Design (Individual Project)
+- LIBRIFY Public Library Network Design (Group Project)
+
+**Technologies:** OSPF, VLAN, DHCP, DNS, QoS, FortiGate, SD-WAN, VPN, SNMPv3.
+
 ---
 
 ## 06 / Capture the Flag (CTF)
