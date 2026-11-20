@@ -105,7 +105,7 @@ Configured a controlled web application security testing environment using Damn 
 
 `DVWA` `Kali Linux` `Apache2` `MariaDB` `PHP` `XSS` `CSRF`
 
-### MyFinance — Web Application Security Assessment
+### [MyFinance Web Application Security Assessment](https://github.com/rosinss/myfinance-web-security-assessment)
 
 **Academic Group Project | Team of Four**
 
