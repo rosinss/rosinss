@@ -51,8 +51,7 @@ personal_interests:
 
 ## 02 / Cybersecurity Projects
 
-### SIEM Security Monitoring and Threat Analysis
-
+### [SIEM Security Monitoring & Threat Analysis](https://github.com/rosinss/siem-elk-security-monitoring)
 **Academic Project | 2025**
 
 Developed a local Security Information and Event Management (SIEM) environment using the ELK Stack.
